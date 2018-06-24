@@ -5,6 +5,7 @@ import pandas as pd
 from sklearn import datasets
 from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
+import matplotlib.pyplot as plt
 
 # Primero se carga el conjunto de datos, se trata del iris dataset
 # el cual fue empleado por Ronald Fisher para probar técnicas
